@@ -3,10 +3,10 @@
 ## 1. 親師生運動平權融合運動會
 ## 2. 中正大學高爾夫練習場
 ## 3. 斗六台糖高爾夫練習場(斗六老鷹高爾夫球練習場)
-## 5. 斑芝花高爾夫球場
-## 6. 蘭潭國小高爾夫教室
-## 7. 嘉光高爾夫球場
-## 8. 自家簡易高爾夫練習場
+## 4. 斑芝花高爾夫球場
+## 5. 蘭潭國小高爾夫教室
+## 6. 嘉光高爾夫球場
+## 7. 自家簡易高爾夫練習場
 
 1a. 2024.12.03 親師生運動平權融合運動會，比賽高爾夫推桿。
 ![2024.12.03 親師生運動平權融合運動會，比賽高爾夫推桿。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-1st-time-20241203-2.JPG)
@@ -47,4 +47,11 @@
 4f. 2025.7.2 斑芝花高爾夫球場，李天宇。
 ![2025.7.2 斑芝花高爾夫球場，李天宇。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250702-3.jpg)
 
+5a. 2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。
+![2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Lantan-Elementary-School-Golf-Classroom-Anne-Lee-20250921.jpg)
 
+5a. 2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。
+![2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Lantan-Elementary-School-Golf-Classroom-Anne-Lee-20251012.jpg)
+
+5a. 2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。
+![2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Lantan-Elementary-School-Golf-Classroom-Anne-Lee-20251221.jpg)
