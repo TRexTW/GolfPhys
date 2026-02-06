@@ -17,4 +17,3 @@ YOLO Pose Estimation Model - Person with OBS 3 cameras 。
 YOLO Golfer Pose Estimation Model - YOLO-Golfer-Pose-Estimation-Model-Home-simple-golf-driving-range
 ![YOLO Golfer Pose Estimation Model](https://github.com/TRexTW/GolfPhys/blob/main/figure/YOLO-Golfer-Pose-Estimation-Model-Home-simple-golf-driving-range.gif)
 
-https://github.com/TRexTW/GolfPhys/blob/main/figure/YOLO-Golfer-Pose-Estimation-Model-Home-simple-golf-driving-range.gif
