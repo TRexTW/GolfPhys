@@ -27,16 +27,16 @@
 4b. 2025.6.22 斑芝花高爾夫球場，詹可米、李宇晴。
 ![2025.6.22 斑芝花高爾夫球場，詹可米、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Komi-Chan-Anne-Lee-20250622.jpg)
 
-4c. 2025.6.22 斑芝花高爾夫球場，李宇晴。
-![2025.6.22 斑芝花高爾夫球場，李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250701.jpg)
+4c. 2025.7.1 斑芝花高爾夫球場，李宇晴。
+![2025.7.1 斑芝花高爾夫球場，李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250701.jpg)
 
-4d. 2025.6.22 斑芝花高爾夫球場，李天宇。
-![2025.6.22 斑芝花高爾夫球場，李天宇。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250702-1.jpg)
+4d. 2025.7.2 斑芝花高爾夫球場，李天宇。
+![2025.7.2 斑芝花高爾夫球場，李天宇。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250702-1.jpg)
 
-4e. 2025.6.22 斑芝花高爾夫球場，李天宇。
-![2025.6.22 斑芝花高爾夫球場，李天宇。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250702-2.jpg)
+4e. 2025.7.2 斑芝花高爾夫球場，李天宇。
+![2025.7.2 斑芝花高爾夫球場，李天宇。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250702-2.jpg)
 
-4f. 2025.6.22 斑芝花高爾夫球場，李天宇。
-![2025.6.22 斑芝花高爾夫球場，李天宇。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250702-3.jpg)
+4f. 2025.7.2 斑芝花高爾夫球場，李天宇。
+![2025.7.2 斑芝花高爾夫球場，李天宇。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250702-3.jpg)
 
 
