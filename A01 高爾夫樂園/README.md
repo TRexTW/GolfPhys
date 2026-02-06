@@ -55,3 +55,10 @@
 
 5a. 2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。
 ![2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Lantan-Elementary-School-Golf-Classroom-Anne-Lee-20251221.jpg)
+
+
+
+
+7a. 2025.11.26 自家簡易高爾夫練習場，李天宇、李宇晴。
+![2025.11.26 自家簡易高爾夫練習場，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Home-simple-golf-driving%20-range-AI-ChatGPT-20251126.jpg)
+
