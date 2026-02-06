@@ -3,6 +3,12 @@
 YOLO Golfer Pose Estimation Model。
 ![YOLO Golfer Pose Estimation Model。](https://github.com/TRexTW/GolfPhys/blob/main/figure/YOLO-Golfer-Pose-Estimation-Golfer-Person.gif)
 
-YOLO Golfer Pose Estimation Model wtih OBS 3 cameras 。
-![YOLO Golfer Pose Estimation Model  wtih OBS 3 cameras 。](https://github.com/TRexTW/GolfPhys/blob/main/figure/YOLO-Pose-Estimation-Golf-Person-3camera.gif)
+YOLO Golfer Pose Estimation Model with OBS 3 cameras 。
+![YOLO Golfer Pose Estimation Model  with OBS 3 cameras 。](https://github.com/TRexTW/GolfPhys/blob/main/figure/YOLO-Pose-Estimation-Golf-Person-3camera.gif)
 
+
+YOLO Golfer Pose Estimation Model 。
+![YOLO Golfer Pose Estimation Model 。](https://github.com/TRexTW/GolfPhys/blob/main/figure/YOLO-Pose-Estimation-Golf-2-Person-CCU.PNG)
+
+YOLO Golfer Pose Estimation Model with OBS 3 cameras 。
+![YOLO Golfer Pose Estimation Model  with OBS 3 cameras 。](https://github.com/TRexTW/GolfPhys/blob/main/figure/YOLO-Pose-Estimation-Golf-3-Person-3-Camera-CCU.PNG)
