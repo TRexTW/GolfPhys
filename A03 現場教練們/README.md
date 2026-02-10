@@ -23,7 +23,7 @@
 ## 2.高爾夫教室教練
 
 蘭潭國小高爾夫教室教練。
-![2025.9.21 蘭潭國小高爾夫教室，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Lantan-Elementary-School-Golf-Classroom-Anne-Lee-20250921.jpg)
+![蘭潭國小高爾夫教室，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Lantan-Elementary-School-Golf-Classroom-Anne-Lee-20251221.jpg)
 
 蘭潭國小高爾夫教室教練。
 ![蘭潭國小高爾夫教室，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-Coach-Classmate-Lantan-Elementary-School-Golf-Classroom-Anne-Lee-Aaron-Lee.JPG)
