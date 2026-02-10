@@ -5,6 +5,11 @@
 
 ## 1.球場與練習場教練
 
+
+斗六老鷹高爾夫球練習場
+![2025.3.9 斗六老鷹高爾夫球練習場，李天宇、李宇晴。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Douliu-Eagle-Golf-Driving-Range-Anne-Lee-20250309.jpg)
+
+
 ## 2.高爾夫教室教練
 
 ## 3.同學分享共學
