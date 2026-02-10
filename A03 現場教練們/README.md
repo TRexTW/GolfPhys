@@ -28,8 +28,16 @@
 
 ## 3.同學分享共學
 
+蘭潭國小高爾夫教室，同學與教練指導高爾夫技術。
+![蘭潭國小高爾夫教室，同學與教練指導高爾夫技術。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-Coach-Classmate-Lantan-Elementary-School-Golf-Classroom-Aaron-Lee.JPG)
+
+
 斑芝花高爾夫球場，同學、同學家長與桿弟指導高爾夫技術。
 ![2025.7.2 斑芝花高爾夫球場，李天宇。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-course-Wing-On-Golf-Country-Club-Aaron-Lee-20250702-2.jpg)
+
+嘉光高爾夫球場，同學、同學家長與教練指導高爾夫技術。
+![嘉光高爾夫球場，同學、同學家長與教練指導高爾夫技術。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-Coach-Classmate-Golf-course-Chia-Kuang-Golf-Country-Club-Anne-Lee.jpg)
+
 
 
 ## 4. AI 高爾夫教練
