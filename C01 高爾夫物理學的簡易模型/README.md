@@ -1,5 +1,5 @@
 ## 高爾夫物理學的簡易模型
-## The Simple Golf Phyics Model for Kids
+## The Simple Golf Physics Model for Kids
 
 我們建立一個使用人工智慧輔助高爾夫學習的簡易物理模型。
 (化繁為簡的數學觀念 #小波正交 #簡易傅立葉轉換)
