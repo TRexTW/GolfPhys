@@ -3,6 +3,7 @@
 ## 訓練一個高爾夫姿勢估計模型
 
 1.基本模型 (YOLO Pose Base Model)
+
 在 COCO8-pose 資料集上訓練 YOLO26-pose 模型。 COCO8-pose 資料集是一個小型樣本資料集，非常適合用於測試和調試姿態估計模型。
 
 
