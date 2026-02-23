@@ -6,4 +6,4 @@ model = YOLO("yolo26n-pose.pt")  # load a pretrained model (recommended for trai
 model = YOLO("yolo26n-pose.yaml").load("yolo26n-pose.pt")  # build from YAML and transfer weights
 
 # Train the model
-results = model.train(data="coco8-pose.yaml", epochs=200, imgsz=640)
+results = model.train(data="golfer-pose.yaml", epochs=200, imgsz=640)
