@@ -10,7 +10,7 @@
 
 OLO姿態資料集格式的詳細資訊請參閱資料集指南。若要將現有資料集從其他格式（例如COCO等）轉換為YOLO格式，請使用Ultralytics的JSON2YOLO工具。對於自訂姿態估計任務，您還可以探索一些專用資料集，例如用於動物姿態估計的 Tiger-Pose 資料集、用於手部追蹤的 Hand Keypoints 資料集以及用於犬類姿態分析的 Dog-Pose 資料集。也可以研發自己的綠鬣蜥姿勢估計資料集 Iguana-Pose
 
-
+https://docs.ultralytics.com/tasks/pose/#train
 
 YOLO Golfer Pose Estimation Model。
 ![YOLO Golfer Pose Estimation Model。](https://github.com/TRexTW/GolfPhys/blob/main/figure/YOLO-Golfer-Pose-Estimation-Golfer-Person.gif)
