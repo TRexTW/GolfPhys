@@ -39,5 +39,8 @@
 ![嘉光高爾夫球場，同學、同學家長與教練指導高爾夫技術。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-Coach-Classmate-Golf-course-Chia-Kuang-Golf-Country-Club-Anne-Lee.jpg)
 
 
+![高爾夫練習桿。](https://github.com/TRexTW/GolfPhys/blob/main/figure/Golf-Physics-golf-swing-trainer-small.gif)
+
+
 
 ## 4. AI 高爾夫教練
